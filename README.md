@@ -2,8 +2,10 @@
 Proof of concept using peerjs.
 
 ```
+git clone https://github.com/Nullpo/peerjs-example.git
+cd peerjs-example
 npm install
 node server.js
 ```
 
-An then, go to http://localhost:3000/
+And then go to http://localhost:3000/
